@@ -1,0 +1,2 @@
+V	231108023810Z		01	unknown	/C=BR/ST=SP/L=SaoPaulo/O=arcsvpn/OU=MyOrganizationalUnit/CN=server/name=EasyRSA/emailAddress=me@myhost.mydomain
+V	231108023915Z		02	unknown	/C=BR/ST=SP/L=SaoPaulo/O=arcsvpn/OU=MyOrganizationalUnit/CN=client1/name=EasyRSA/emailAddress=me@myhost.mydomain
