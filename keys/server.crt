@@ -1,0 +1,98 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, ST=SP, L=SaoPaulo, O=arcsvpn, OU=MyOrganizationalUnit, CN=arcsvpn.cloudapp.net/name=EasyRSA/emailAddress=me@myhost.mydomain
+        Validity
+            Not Before: Nov 10 03:45:03 2013 GMT
+            Not After : Nov  8 03:45:03 2023 GMT
+        Subject: C=BR, ST=SP, L=SaoPaulo, O=arcsvpn, OU=MyOrganizationalUnit, CN=server/name=EasyRSA/emailAddress=me@myhost.mydomain
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e7:e0:6e:0f:70:20:49:8a:7f:5f:59:a2:c6:a9:
+                    01:8b:08:a6:0f:ce:22:40:34:50:48:e8:01:f9:84:
+                    36:07:3a:c3:45:ec:b4:43:9f:51:b0:d2:b7:63:af:
+                    7d:d2:02:c6:fb:39:fe:6b:66:96:29:8d:fa:e1:ea:
+                    e4:95:08:1c:45:4a:a4:03:9b:3e:75:b9:c0:03:29:
+                    6d:59:3f:b2:69:5b:a4:d0:52:25:3e:3f:a0:51:86:
+                    c4:20:63:77:c7:c3:0f:2c:7f:84:d9:94:aa:58:a3:
+                    d5:dd:d7:8b:a6:ff:76:09:43:4c:f6:1c:c5:ce:72:
+                    b4:d2:35:71:99:c1:e9:60:11:3a:ab:c7:71:50:12:
+                    cf:29:15:33:97:70:b8:73:33:8a:6d:0c:b7:ef:3f:
+                    d4:af:d8:4d:cd:09:e5:bd:b6:54:44:9c:f6:0f:7f:
+                    26:7d:14:2f:74:dc:fa:13:70:71:1c:f1:69:cb:bc:
+                    22:00:53:dc:da:03:62:5a:c0:dc:0e:58:fe:9b:7f:
+                    bf:6b:83:46:cf:d4:2f:98:42:7a:12:99:c7:80:df:
+                    df:2f:4d:12:a8:21:ae:b4:c1:87:17:24:15:d2:44:
+                    65:3d:b1:e4:ab:cf:47:4b:bf:d2:25:91:f4:9a:b2:
+                    16:67:07:a5:6d:89:77:94:42:f3:f4:28:e2:a8:8c:
+                    30:97
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                B5:70:09:11:E1:50:62:51:23:B1:89:BE:20:95:10:AE:C3:A5:42:87
+            X509v3 Authority Key Identifier: 
+                keyid:1D:FB:A0:C9:15:CF:5C:87:36:61:85:11:D8:E3:E3:56:14:98:5B:B2
+                DirName:/C=BR/ST=SP/L=SaoPaulo/O=arcsvpn/OU=MyOrganizationalUnit/CN=arcsvpn.cloudapp.net/name=EasyRSA/emailAddress=me@myhost.mydomain
+                serial:A9:BB:55:85:F8:9D:6E:47
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         de:ee:08:3b:37:2e:ea:ad:49:2d:44:00:f0:46:d5:5f:da:5b:
+         8b:10:cc:1a:9e:df:38:3a:ec:cd:74:1e:d7:0e:2c:4e:20:9c:
+         e0:dd:7e:a8:16:9e:3b:ea:3d:b0:04:fd:03:1f:24:47:78:b6:
+         57:ff:12:a9:a5:01:2e:ab:89:47:4a:50:83:de:83:3a:7e:f7:
+         20:42:db:37:e9:62:01:ec:49:f7:1c:9b:11:cf:d7:06:75:fc:
+         ac:7b:6d:42:5e:b4:bb:95:fb:b0:5f:b8:31:c2:93:ad:90:23:
+         a1:f5:ab:1a:a1:8c:3c:2b:d2:c4:ec:50:85:6d:81:4a:25:f0:
+         ce:81:d6:3b:fb:ba:64:d9:1d:00:14:3c:b2:d1:35:68:f9:4d:
+         eb:a8:fc:2f:38:b0:98:49:d4:82:d4:03:90:78:16:4b:b0:1d:
+         67:22:0a:75:8b:d8:c9:11:af:1c:87:11:fc:29:04:84:72:70:
+         4a:65:1a:a7:b7:e0:d7:b5:57:e6:89:4c:b8:12:0c:1c:95:41:
+         18:51:75:b3:e2:f7:21:70:f9:cf:98:1e:5f:59:f5:94:4e:93:
+         8f:0f:fa:19:4b:c1:47:bc:78:ff:01:c0:77:83:56:88:af:d1:
+         7f:fa:85:90:9e:55:88:c4:b0:96:db:80:6c:80:30:f2:aa:f9:
+         c1:a1:9c:03
+-----BEGIN CERTIFICATE-----
+MIIFWDCCBECgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBsjELMAkGA1UEBhMCQlIx
+CzAJBgNVBAgTAlNQMREwDwYDVQQHEwhTYW9QYXVsbzEQMA4GA1UEChMHYXJjc3Zw
+bjEdMBsGA1UECxMUTXlPcmdhbml6YXRpb25hbFVuaXQxHTAbBgNVBAMTFGFyY3N2
+cG4uY2xvdWRhcHAubmV0MRAwDgYDVQQpEwdFYXN5UlNBMSEwHwYJKoZIhvcNAQkB
+FhJtZUBteWhvc3QubXlkb21haW4wHhcNMTMxMTEwMDM0NTAzWhcNMjMxMTA4MDM0
+NTAzWjCBpDELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAlNQMREwDwYDVQQHEwhTYW9Q
+YXVsbzEQMA4GA1UEChMHYXJjc3ZwbjEdMBsGA1UECxMUTXlPcmdhbml6YXRpb25h
+bFVuaXQxDzANBgNVBAMTBnNlcnZlcjEQMA4GA1UEKRMHRWFzeVJTQTEhMB8GCSqG
+SIb3DQEJARYSbWVAbXlob3N0Lm15ZG9tYWluMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA5+BuD3AgSYp/X1mixqkBiwimD84iQDRQSOgB+YQ2BzrDRey0
+Q59RsNK3Y6990gLG+zn+a2aWKY364erklQgcRUqkA5s+dbnAAyltWT+yaVuk0FIl
+Pj+gUYbEIGN3x8MPLH+E2ZSqWKPV3deLpv92CUNM9hzFznK00jVxmcHpYBE6q8dx
+UBLPKRUzl3C4czOKbQy37z/Ur9hNzQnlvbZURJz2D38mfRQvdNz6E3BxHPFpy7wi
+AFPc2gNiWsDcDlj+m3+/a4NGz9QvmEJ6EpnHgN/fL00SqCGutMGHFyQV0kRlPbHk
+q89HS7/SJZH0mrIWZwelbYl3lELz9CjiqIwwlwIDAQABo4IBgzCCAX8wCQYDVR0T
+BAIwADARBglghkgBhvhCAQEEBAMCBkAwNAYJYIZIAYb4QgENBCcWJUVhc3ktUlNB
+IEdlbmVyYXRlZCBTZXJ2ZXIgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFLVwCRHhUGJR
+I7GJviCVEK7DpUKHMIHnBgNVHSMEgd8wgdyAFB37oMkVz1yHNmGFEdjj41YUmFuy
+oYG4pIG1MIGyMQswCQYDVQQGEwJCUjELMAkGA1UECBMCU1AxETAPBgNVBAcTCFNh
+b1BhdWxvMRAwDgYDVQQKEwdhcmNzdnBuMR0wGwYDVQQLExRNeU9yZ2FuaXphdGlv
+bmFsVW5pdDEdMBsGA1UEAxMUYXJjc3Zwbi5jbG91ZGFwcC5uZXQxEDAOBgNVBCkT
+B0Vhc3lSU0ExITAfBgkqhkiG9w0BCQEWEm1lQG15aG9zdC5teWRvbWFpboIJAKm7
+VYX4nW5HMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDANBgkqhkiG
+9w0BAQsFAAOCAQEA3u4IOzcu6q1JLUQA8EbVX9pbixDMGp7fODrszXQe1w4sTiCc
+4N1+qBaeO+o9sAT9Ax8kR3i2V/8SqaUBLquJR0pQg96DOn73IELbN+liAexJ9xyb
+Ec/XBnX8rHttQl60u5X7sF+4McKTrZAjofWrGqGMPCvSxOxQhW2BSiXwzoHWO/u6
+ZNkdABQ8stE1aPlN66j8LziwmEnUgtQDkHgWS7AdZyIKdYvYyRGvHIcR/CkEhHJw
+SmUap7fg17VX5olMuBIMHJVBGFF1s+L3IXD5z5geX1n1lE6Tjw/6GUvBR7x4/wHA
+d4NWiK/Rf/qFkJ5ViMSwltuAbIAw8qr5waGcAw==
+-----END CERTIFICATE-----
